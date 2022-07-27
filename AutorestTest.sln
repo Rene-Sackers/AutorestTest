@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutorestTest.Api", "AutorestTest.Api\AutorestTest.Api.csproj", "{2571B269-95B4-4A96-8030-AB039D2205E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutorestTest.Client", "AutorestTest.Client\AutorestTest.Client.csproj", "{CCACB108-BA53-44F2-9BF0-759F80D0C243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutorestTest.Consumer", "AutorestTest.Consumer\AutorestTest.Consumer.csproj", "{9C389934-C711-4BE6-8314-80201D44D312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2571B269-95B4-4A96-8030-AB039D2205E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2571B269-95B4-4A96-8030-AB039D2205E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2571B269-95B4-4A96-8030-AB039D2205E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2571B269-95B4-4A96-8030-AB039D2205E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCACB108-BA53-44F2-9BF0-759F80D0C243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCACB108-BA53-44F2-9BF0-759F80D0C243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCACB108-BA53-44F2-9BF0-759F80D0C243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCACB108-BA53-44F2-9BF0-759F80D0C243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C389934-C711-4BE6-8314-80201D44D312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C389934-C711-4BE6-8314-80201D44D312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C389934-C711-4BE6-8314-80201D44D312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C389934-C711-4BE6-8314-80201D44D312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
